@@ -25,7 +25,7 @@ const Header = styled.div`
     
       font-size: 20px;
       
-    padding : 5px
+    padding : 7px
   }
 `;
 const AppName = styled.div`
@@ -139,7 +139,7 @@ function App() {
             />
           ))
         ) : (
-          <Placeholder src="/movie-icon.svg" />
+          <Placeholder   src="/movie-icon.svg"  />
         )}
       </MovieListContainer>
     </Container>
