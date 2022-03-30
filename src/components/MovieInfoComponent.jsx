@@ -68,18 +68,18 @@ width: 20px;
   color: black;
   background: lightgray;
   height: fit-content;
-  padding: 10px;
+  padding: 6px;
   border-radius: 50%;
   align-item: center;
   cursor: pointer;
   opacity: 0.8;
   @media (max-width: 580px){
-    font-size: 13px
+    font-size: 12px
     height: 10px;
     width: 13px;
-    right: 25px;
-  bottom:10px;
-  position: absolute
+    right: 0;
+    top:70px;
+  position: absolute;
   }
 `;
 const MovieInfoComponent = (props) => {
