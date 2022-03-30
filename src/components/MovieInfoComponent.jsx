@@ -78,7 +78,7 @@ width: 20px;
     height: 10px;
     width: 13px;
     right: 25px;
-  bottom:42px;
+  bottom:10px;
   position: absolute
   }
 `;
